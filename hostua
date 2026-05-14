@@ -1,32 +1,31 @@
 android_devices = [
-    {"v": "14", "m": "SM-S928B", "pre": "UP1A", "p1": "231005", "p2": "007"},
-    {"v": "14", "m": "Pixel 8 Pro", "pre": "UD1A", "p1": "230805", "p2": "019"},
-    {"v": "13", "m": "SM-S911U", "pre": "TP1A", "p1": "220624", "p2": "014"},
-    {"v": "13", "m": "SM-G998B", "pre": "TP1A", "p1": "220905", "p2": "001"},
-    {"v": "12", "m": "Pixel 6a", "pre": "SD2A", "p1": "220605", "p2": "003"},
-    {"v": "11", "m": "SM-G973F", "pre": "RP1A", "p1": "200720", "p2": "012"},
-    {"v": "13", "m": "2210132G", "pre": "TKQ1", "p1": "220829", "p2": "002"},
-    {"v": "12", "m": "M2102J20SG", "pre": "SKQ1", "p1": "211006", "p2": "001"},
-    {"v": "14", "m": "Pixel 7", "pre": "UQ1A", "p1": "231205", "p2": "015"},
-    {"v": "13", "m": "CPH2451", "pre": "SKQ1", "p1": "221119", "p2": "001"},
-    {"v": "11", "m": "XQ-BC52", "pre": "61.0.A.11", "p1": "92", "p2": "001"},
-    {"v": "10", "m": "SM-N975F", "pre": "QP1A", "p1": "190711", "p2": "020"},
-    {"v": "13", "m": "KB2003", "pre": "SKQ1", "p1": "221119", "p2": "001"},
-    {"v": "14", "m": "SM-A546B", "pre": "UP1A", "p1": "231005", "p2": "007"},
-    {"v": "12", "m": "V2105", "pre": "SP1A", "p1": "210812", "p2": "016"},
-    {"v": "13", "m": "SM-X906B", "pre": "TP1A", "p1": "230120", "p2": "001"},
-    {"v": "11", "m": "HD1903", "pre": "RKQ1", "p1": "201105", "p2": "002"},
-    {"v": "14", "m": "23127PN0CG", "pre": "UKQ1", "p1": "230917", "p2": "001"},
-    {"v": "12", "m": "SM-G991B", "pre": "SP1A", "p1": "210812", "p2": "016"},
-    {"v": "13", "m": "Pixel 5", "pre": "TQ3A", "p1": "230605", "p2": "011"},
-    {"v": "10", "m": "SM-G960F", "pre": "QP1A", "p1": "190711", "p2": "020"},
-    {"v": "11", "m": "SM-A515F", "pre": "RP1A", "p1": "200720", "p2": "012"},
-    {"v": "14", "m": "Pixel Fold", "pre": "UQ1A", "p1": "240205", "p2": "002"},
-    {"v": "13", "m": "Moto G (82) 5G", "pre": "T1SXS33", "p1": "114", "p2": "2"},
-    {"v": "12", "m": "SM-S908U1", "pre": "SP1A", "p1": "210812", "p2": "016"},
-    {"v": "13", "m": "2201116SG", "pre": "TKQ1", "p1": "221114", "p2": "001"},
-    {"v": "11", "m": "Pixel 4 XL", "pre": "RP1A", "p1": "201005", "p2": "004"},
-    {"v": "14", "m": "SM-S921B", "pre": "UP1A", "p1": "231005", "p2": "007"},
-    {"v": "13", "m": "CPH2411", "pre": "TP1A", "p1": "230305", "p2": "001"},
-    {"v": "12", "m": "SM-G990B", "pre": "SQ1A", "p1": "211205", "p2": "008"}
-]
+    {"android_version": "16", "model": "Pixel 10 Pro", "build_prefix": "BP4A", "part1": "251205", "part2": "006"},
+    {"android_version": "16", "model": "SM-S948B", "build_prefix": "BP1A", "part1": "251105", "part2": "001"}, # Galaxy S26 Ultra
+    {"android_version": "16", "model": "Pixel 9 Pro Fold", "build_prefix": "BP2A", "part1": "260205", "part2": "002"},
+    {"android_version": "16", "model": "SM-F966B", "build_prefix": "BP1A", "part1": "251105", "part2": "001"}, # Galaxy Z Fold 7
+    {"android_version": "16", "model": "25129PN74G", "build_prefix": "BKQ1", "part1": "250915", "part2": "001"}, # Xiaomi 16
+    {"android_version": "16", "model": "Pixel 10", "build_prefix": "BP4A", "part1": "260405", "part2": "003"},
+    {"android_version": "16", "model": "CPH2755", "build_prefix": "BP1A", "part1": "251105", "part2": "001"}, # OnePlus 14
+    {"android_version": "15", "model": "Pixel 9 Pro XL", "build_prefix": "VQ2A", "part1": "250105", "part2": "001"},
+    {"android_version": "15", "model": "SM-S938B", "build_prefix": "VP1A", "part1": "240822", "part2": "012"}, # Galaxy S25 Ultra
+    {"android_version": "15", "model": "Pixel 8a", "build_prefix": "VQ1A", "part1": "241105", "part2": "003"},
+    {"android_version": "15", "model": "SM-F741B", "build_prefix": "VP1A", "part1": "240822", "part2": "012"}, # Galaxy Z Flip 6
+    {"android_version": "15", "model": "24129PN74G", "build_prefix": "VKQ1", "part1": "240712", "part2": "001"}, # Xiaomi 15
+    {"android_version": "15", "model": "CPH2643", "build_prefix": "VP1A", "part1": "240822", "part2": "012"}, # OnePlus 13
+    {"android_version": "15", "model": "Pixel Fold", "build_prefix": "VQ2A", "part1": "250205", "part2": "002"},
+    {"android_version": "15", "model": "SM-A556B", "build_prefix": "VP1A", "part1": "240822", "part2": "012"}, # Galaxy A55
+    {"android_version": "15", "model": "2407FRK8EC", "build_prefix": "VKQ1", "part1": "240712", "part2": "001"}, # POCO F6 Pro
+    {"android_version": "15", "model": "Pixel 9", "build_prefix": "VQ1A", "part1": "241205", "part2": "004"},
+    {"android_version": "14", "model": "Pixel 8", "build_prefix": "UQ1A", "part1": "240205", "part2": "002"},
+    {"android_version": "14", "model": "SM-S928B", "build_prefix": "UP1A", "part1": "231005", "part2": "007"}, # Galaxy S24 Ultra
+    {"android_version": "14", "model": "SM-A356B", "build_prefix": "UP1A", "part1": "231005", "part2": "007"}, # Galaxy A35
+    {"android_version": "14", "model": "23127PN0CG", "build_prefix": "UKQ1", "part1": "230804", "part2": "001"}, # Xiaomi 14
+    {"android_version": "14", "model": "CPH2581", "build_prefix": "UKQ1", "part1": "230924", "part2": "001"}, # OnePlus 12
+    {"android_version": "14", "model": "Pixel 7a", "build_prefix": "UQ1A", "part1": "231205", "part2": "015"},
+    {"android_version": "14", "model": "SM-F946B", "build_prefix": "UP1A", "part1": "231005", "part2": "007"}, # Galaxy Z Fold 5
+    {"android_version": "14", "model": "V2308", "build_prefix": "UP1A", "part1": "231005", "part2": "007"}, # Vivo X100
+    {"android_version": "13", "model": "Pixel 6a", "build_prefix": "TQ3A", "part1": "230805", "part2": "001"},
+    {"android_version": "13", "model": "SM-A546B", "build_prefix": "TP1A", "part1": "220624", "part2": "014"}, # Galaxy A54
+    {"android_version": "13", "model": "2210132G", "build_prefix": "TKQ1", "part1": "220829", "part2": "002"}, # Xiaomi 13
+    {"android_version": "13", "model": "CPH2551", "build_prefix": "TP1A", "part1": "220905", "part2": "001"}, # OnePlus Open
+    {"android_version": "13", "model": "Pixel 4a", "build_prefix": "TQ3A", "part1": "230805", "part2": "001"}]
